@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: CageKey
+  m_EditorClassIdentifier: Assembly-CSharp::InventoryScriptableManager/QuestItems
+  itemName: CageKey
+  Stackable: 0
+  itemType: 2
+  icon: {fileID: 21300000, guid: 3d36d835343bd417f90e724da7c3c3b3, type: 3}
+  maxStackSize: 0
+  strengthBonus: 20
+  healthBonus: 0

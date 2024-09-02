@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: Sword2
+  m_EditorClassIdentifier: Assembly-CSharp::InventoryScriptableManager/EquipmentItems
+  itemName: Sword2
+  Stackable: 0
+  prefab: {fileID: 6383652355545716854, guid: 2f5ecc1c8a470cb40943606f53056764, type: 3}
+  itemType: 1
+  icon: {fileID: 21300000, guid: c6734ff892edb493f9f6e965ee17a252, type: 3}
+  maxStackSize: 0
+  strengthBonus: 50
+  healthBonus: 5
+  equipmentType: 0
